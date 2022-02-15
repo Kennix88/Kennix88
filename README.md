@@ -1,19 +1,12 @@
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Innokenty Beloborodov!
-
-<a href='https://twitter.com/kennix88/'>
-    <svg style="fill: #1DA1F2;  width: 24px; height: 24px; margin-right: 10px">
-        <use xlink:href="#twitter" />
-    </svg>
+<a href="https://twitter.com/kennix88/" target="_blank" style="margin-right: 10px">
+    <img alt="html5" height ="24px" src="assets/twitter-svgrepo-com.svg"> 
 </a>
-<a href='https://www.instagram.com/kennix88'>
-    <svg style="fill: #E4405F; width: 24px; height: 24px; margin-right: 10px" >
-        <use xlink:href="#instagram" />
-    </svg>
+<a href="https://www.instagram.com/kennix88" target="_blank" style="margin-right: 10px">
+    <img alt="html5" height ="24px" src="assets/instagram-svgrepo-com.svg"> 
 </a>
-<a href='https://t.me/Kennix88'>
-    <svg style="fill: #26A5E4; width: 24px; height: 24px; margin-right: 10px" >
-        <use xlink:href="#telegram" />
-    </svg>
+<a href="https://t.me/Kennix88" target="_blank" style="margin-right: 10px">
+    <img alt="html5" height ="24px" src="assets/telegram-svgrepo-com.svg"> 
 </a>
 
 I am a versatile person and easily adapt to different tasks (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
@@ -34,46 +27,46 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 
 ### 🔨 Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 5px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin-right: 20px">
     <img alt="html5" height ="42px" src="assets/html5-svgrepo-com.svg"> 
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" style="margin-right: 5px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" style="margin-right: 20px">
     <img alt="ccs3" height ="42px" src="assets/css3-svgrepo-com.svg"> 
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 5px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 20px">
     <img alt="JavaScript" height ="42px" src="assets/javascript-svgrepo-com.svg"> 
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 5px">
+<a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 20px">
     <img alt="Typescirpt" height ="42px" src="assets/typescript-svgrepo-com.svg">
 </a>
-<a href="https://angular.io/" target="_blank" style="margin-right: 5px">
+<a href="https://angular.io/" target="_blank" style="margin-right: 20px">
     <img alt="Angular" height ="42px" src="assets/angular-svgrepo-com.svg">
 </a>
-<a href="https://nodejs.org/en/" target="_blank" style="margin-right: 5px">
+<a href="https://nodejs.org/en/" target="_blank" style="margin-right: 20px">
     <img alt="NodeJS" height ="42px" src="assets/nodejs-icon-svgrepo-com.svg">
 </a>
-<a href="https://nestjs.com/" target="_blank" style="margin-right: 5px">
+<a href="https://nestjs.com/" target="_blank" style="margin-right: 20px">
     <img alt="NestJS" height ="42px" src="assets/nestjs-svgrepo-com.svg">
 </a>
-<a href="https://go.dev/" target="_blank" style="margin-right: 5px">
+<a href="https://go.dev/" target="_blank" style="margin-right: 20px">
     <img alt="GoLang" height ="42px" src="assets/go-svgrepo-com.svg">
 </a>
-<a href="https://graphql.org/" target="_blank" style="margin-right: 5px">
+<a href="https://graphql.org/" target="_blank" style="margin-right: 20px">
     <img alt="GraphQL" height ="42px" src="assets/graphql-svgrepo-com.svg">
 </a>
-<a href="https://www.mongodb.com/" target="_blank" style="margin-right: 5px">
+<a href="https://www.mongodb.com/" target="_blank" style="margin-right: 20px">
     <img alt="MongoDB" height ="42px" src="assets/mongodb-svgrepo-com.svg">
 </a>
-<a href="https://www.postgresql.org/" target="_blank" style="margin-right: 5px">
+<a href="https://www.postgresql.org/" target="_blank" style="margin-right: 20px">
     <img alt="PostgreSQL" height ="42px" src="assets/postgresql-svgrepo-com.svg">
 </a>
-<a href="https://redis.io/" target="_blank" style="margin-right: 5px">
+<a href="https://redis.io/" target="_blank" style="margin-right: 20px">
     <img alt="Redis" height ="42px" src="assets/redis-svgrepo-com.svg">
 </a>
-<a href="https://git-scm.com/" target="_blank" style="margin-right: 0px"> 
+<a href="https://git-scm.com/" target="_blank" style="margin-right: 20px"> 
     <img src="assets/git-svgrepo-com.svg" alt="git" height='42px'/> 
 </a>
-<a href="https://www.figma.com/" target="_blank" style="margin-right: 5px"> 
+<a href="https://www.figma.com/" target="_blank" style="margin-right: 20px"> 
     <img src="assets/figma-svgrepo-com.svg" alt="figma" height='42px'/> 
 </a>
 
@@ -89,8 +82,6 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ### 💵 Sponsorship:
 
