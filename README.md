@@ -76,9 +76,9 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 
 <br>
 
-### 📊 Github Stats:
+<h3 align="center"> 📊 Github Stats: </h3>
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
 ![Stats Overview](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg)
@@ -91,21 +91,29 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 
 </div>
 
-### 💵 Sponsorship:
+<h3 align="center"> 💵 Sponsorship: </h3>
+<p align="center">If you want to support me, I will be very happy 🥺👉👈 </p>
 
- If you want to support me, I will be very happy 🥺👉👈 
-<br>
-<a href="https://paypal.me/kennix88" target="_blank" style="margin-right: 5px">
+<div style="display: grid; justify-content: center">
+<a href="https://paypal.me/kennix88" target="_blank" style="text-align: center">
     <img alt="html5" height ="42px" src="assets/paypal-svgrepo-com.svg"> 
 </a>
+<div style="display: flex; gap: 20px; justify-content: center">
+<div style="text-align: right; width: 380px">
 
 `Cryptocurrency:`<br>
-`BTC`:`bc1qtslwdxf7zj9unq0vx04gyfksknhtyxp2rwgh3z`<br>
-`ETH`:`0x4cc2509C083968646989F1E80c25bDC047ea529B`<br>
-`DOGE`:`DFW5smJE9reQxgbD2V7uXp6gUiE8BAd7xZ`<br>
-`LTC`:`ltc1qrmjkyskjqgj9k7qqjgyev9rqkwp3qy9nlfatxx`<br>
+`bc1qtslwdxf7zj9unq0vx04gyfksknhtyxp2rwgh3z`:`BTC`<br>
+`0x4cc2509C083968646989F1E80c25bDC047ea529B`:`ETH`<br>
+`DFW5smJE9reQxgbD2V7uXp6gUiE8BAd7xZ`:`DOGE`<br>
+`ltc1qrmjkyskjqgj9k7qqjgyev9rqkwp3qy9nlfatxx`:`LTC`<br>
+</div>
+<div style="width: 380px">
+
 `Webmoney:`<br>
 `WMZ`:`Z353288752143`<br>
 `WME`:`E815907815513`<br>
 `WMR`:`R419253432687`
+</div>
+</div>
+</div>
 
