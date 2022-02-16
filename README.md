@@ -11,7 +11,7 @@
     <a href="https://t.me/Kennix88" target="_blank" style="margin-right: 10px">
         <img alt="html5" height ="24px" src="assets/telegram-svgrepo-com.svg"> 
     </a>
-</div>
+</div> <br>
 
 I am a versatile person and easily adapt to different tasks (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
@@ -74,7 +74,7 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
     <img src="assets/figma-svgrepo-com.svg" alt="figma" height='42px'/> 
 </a>
 
-<hr>
+<br>
 
 ### 📊 Github Stats:
 
@@ -90,8 +90,6 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<hr>
 
 ### 💵 Sponsorship:
 
