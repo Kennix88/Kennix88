@@ -1,35 +1,38 @@
 <h1 align="center">
-    Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Innokenty Beloborodov!
+    Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, Я Иннокентий Белобородов!
 </h1>
 <div align="center">
-    <a href="https://twitter.com/kennix88/" target="_blank" style="margin-right: 10px">
-        <img alt="html5" height ="24px" src="assets/twitter-svgrepo-com.svg"> 
-    </a> &nbsp;
-    <a href="https://www.instagram.com/kennix88" target="_blank" style="margin-right: 10px">
-        <img alt="html5" height ="24px" src="assets/instagram-svgrepo-com.svg"> 
-    </a> &nbsp;
-    <a href="https://t.me/Kennix88" target="_blank" style="margin-right: 10px">
-        <img alt="html5" height ="24px" src="assets/telegram-svgrepo-com.svg"> 
+    <a href="https://t.me/Kennix88_TG" title='Telegram-канал' target="_blank" style="margin-right: 20px">
+        <img alt="html5" width = "24px" src="assets/telegram-svgrepo-com.svg">
     </a>
+    <a href="https://www.instagram.com/kennix88" title='Инстаграм' target="_blank" style="margin-right: 10px">
+        <img alt="html5" width = "24px" height='24px' src="assets/instagram-svgrepo-com.svg"> 
+    </a> &nbsp;
+    <a href="https://t.me/Kennix88" title='Написать в Telegram' target="_blank" style="margin-right: 10px">
+        <img alt="html5" width = "24px" height='24px' src="assets/telegram-svgrepo-com.svg"> 
+    </a>
+    <a href="https://twitter.com/kennix88/" title='Твиттер' target="_blank" style="margin-left: 5px">
+        <img alt="html5" width = "24px" height='24px' src="assets/twitter-svgrepo-com.svg"> 
+    </a> &nbsp;
 </div> <br>
 
-I am a versatile person and easily adapt to different tasks (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+Я разносторонний человек и легки приспосабливаюсь к разным задачам (Full-Stack веб-разработчика 🌐, разработка приложений 📱 или дизайн начального уровня 🎨) в зависимости от того, что требуется для проекта. Я люблю изучать новые технологии 💻 и применять их для крутых проектов 🛠️.
 
 <img align="right" alt="GIF" src="assets/dev.svg" width="380" />
 
-### 🧐 More About Me:
+### 🧐 Больше обо мне:
 
-- 🔭 &nbsp; I’m currently working on **ngx-medium-clone**;
-- 💼 &nbsp; any freelance work? do reach, [email](kennix88@icloud.com) or [telegram](https://t.me/Kennix88);
-- 💬 &nbsp; ask me about anything, i am happy to help;
-- 🌱 &nbsp; I’m currently learning Typescript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kennix88?tab=repositories);
-- 📫 &nbsp; Follow me on [twitter](https://twitter.com/kennix88/) and [instagram](https://t.me/Kennix88);
-- 📝 &nbsp; Checkout my [resume](https://hh.ru/applicant/resumes/view?resume=9b70c720ff065569260039ed1f34646b374953) on hh.ru
+- 🔭 &nbsp; В активном поиске работы;
+- 💼 &nbsp; Есть работа для меня? Напиши мне на [email](it38kent@gmail.com) или [telegram](https://t.me/Kennix88);
+- 💬 &nbsp; Спрашивайте меня о чем угодно, я с радостью вам отвечу;
+- 🌱 &nbsp; Я активно изучаю Typescript;
+- 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/kennix88?tab=repositories);
+- 📫 &nbsp; Подпишись на меня в [Telegram](https://t.me/Kennix88_TG) и [Instagram](https://www.instagram.com/kennix88);
+- 📝 &nbsp; Смотри мое [резюме](https://hh.ru/resume/9b70c720ff065569260039ed1f34646b374953) на hh.ru
 
 <hr>
 
-### 🔨 Languages and Tools:
+### 🔨 Мои языки и инструменты:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
     <img alt="html5" height ="42px" src="assets/html5-svgrepo-com.svg"> 
@@ -55,8 +58,8 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 <a href="https://go.dev/" target="_blank" >
     <img alt="GoLang" height ="42px" src="assets/go-svgrepo-com.svg">
 </a> &nbsp;
-<a href="https://graphql.org/" target="_blank" >
-    <img alt="GraphQL" height ="42px" src="assets/graphql-svgrepo-com.svg">
+<a href="https://www.python.org/" target="_blank" >
+    <img alt="Python" height ="42px" src="assets/python-icon.svg">
 </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" >
     <img alt="MongoDB" height ="42px" src="assets/mongodb-svgrepo-com.svg">
@@ -76,37 +79,36 @@ I am a versatile person and easily adapt to different tasks (Full Stack Web Deve
 
 <br>
 
-<h3 align="center"> 📊 Github Stats: </h3>
+<h3 align="center"> 📊 Статистика Github: </h3>
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
-![Stats Overview](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg)
+![Обзор статистики](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg)
+![Наиболее часто используемые языки](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика Anurag на GitHub](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
-<h3 align="center"> 💵 Sponsorship: </h3>
-<p align="center">If you want to support me, I will be very happy 🥺👉👈 </p>
+<h3 align="center"> 💵 Спонсорство: </h3>
+<p align="center">Если вы захотите поддержать меня, я буду очень этому рад 🥺👉👈 </p>
 
-<a href="https://paypal.me/kennix88" target="_blank" style="text-align: center">
-    <img alt="html5" height ="42px" src="assets/paypal-svgrepo-com.svg"> 
-</a>
-
-`Cryptocurrency:`<br>
+`Криптовалюта:`<br>
 `BTC`:`bc1qtslwdxf7zj9unq0vx04gyfksknhtyxp2rwgh3z`<br>
 `ETH`:`0x4cc2509C083968646989F1E80c25bDC047ea529B`<br>
 `DOGE`:`DFW5smJE9reQxgbD2V7uXp6gUiE8BAd7xZ`<br>
 `LTC`:`ltc1qrmjkyskjqgj9k7qqjgyev9rqkwp3qy9nlfatxx`<br>
 
-`Webmoney:`<br>
-`WMZ`:`Z353288752143`<br>
-`WME`:`E815907815513`<br>
-`WMR`:`R419253432687`
+`yooMoney`:`410018310209693` или [страница оплаты](https://yoomoney.ru/to/410018310209693) <br>
+`QIWI`:`+79246069228` или [страница оплаты](https://qiwi.com/n/KENNIX88) <br>
+`СПБ`:`+79246069228` Тинькофф
+
+Извиняюсь если вас как-то не устраивает раздел спонсорства...
+
+
 
 
