@@ -2,7 +2,7 @@
     Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, Я Иннокентий Белобородов!
 </h1>
 <div align="center">
-    <a href="https://t.me/Kennix88_TG" title='Telegram-канал' target="_blank" style="margin-right: 20px">
+    <a href="https://t.me/Kennix88_TG" title='Telegram-канал' target="_blank" style="...">
         <img alt="html5" width = "24px" src="assets/telegram-svgrepo-com.svg">
     </a>
     <a href="https://www.instagram.com/kennix88" title='Инстаграм' target="_blank" style="margin-right: 10px">
@@ -11,7 +11,7 @@
     <a href="https://t.me/Kennix88" title='Написать в Telegram' target="_blank" style="margin-right: 10px">
         <img alt="html5" width = "24px" height='24px' src="assets/telegram-svgrepo-com.svg"> 
     </a>
-    <a href="https://twitter.com/kennix88/" title='Твиттер' target="_blank" style="margin-left: 5px">
+    <a href="https://twitter.com/kennix88/" title='Твиттер' target="_blank" style="...">
         <img alt="html5" width = "24px" height='24px' src="assets/twitter-svgrepo-com.svg"> 
     </a> &nbsp;
 </div> <br>
