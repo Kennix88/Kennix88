@@ -1,18 +1,18 @@
 <h1 align="center">
     Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, Я Иннокентий Белобородов!
 </h1>
-<div align="center">
+<div align="center" style='font-size: 16px'>
     <a href="https://t.me/Kennix88_TG" title='Telegram-канал' target="_blank" style="...">
-        <img alt="html5" width = "24px" src="assets/telegram-svgrepo-com.svg">
-    </a>
+        Telegram-канал
+    </a> ·
     <a href="https://www.instagram.com/kennix88" title='Инстаграм' target="_blank" style="margin-right: 10px">
-        <img alt="html5" width = "24px" height='24px' src="assets/instagram-svgrepo-com.svg"> 
-    </a> &nbsp;
+        Инстаграм 
+    </a> ·
     <a href="https://t.me/Kennix88" title='Написать в Telegram' target="_blank" style="margin-right: 10px">
-        <img alt="html5" width = "24px" height='24px' src="assets/telegram-svgrepo-com.svg"> 
-    </a>
+        Telegram 
+    </a> ·
     <a href="https://twitter.com/kennix88/" title='Твиттер' target="_blank" style="...">
-        <img alt="html5" width = "24px" height='24px' src="assets/twitter-svgrepo-com.svg"> 
+        Твиттер 
     </a> &nbsp;
 </div> <br>
 
