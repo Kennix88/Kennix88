@@ -1,4 +1,4 @@
-<h3 align="center"> 📊 Статистика Github: </h3>
+<h3 align="center"> 📊 stats Github: </h3>
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
