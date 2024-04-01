@@ -1,17 +1,24 @@
 <h3 align="center"> 📊 Stats Github: </h3>
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
-
+  
 ![Обзор статистики](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg)
 ![Наиболее часто используемые языки](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg)
 
 </a>
 
 <div align="center">
-
-[![Статистика Anurag на GitHub](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Статистика Anurag на GitHub](https://github-readme-stats.vercel.app/api?username=Kennix88&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<div align="center">
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kennix88&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 
 <h3 align="center"> 💵 Sponsorship: </h3>
 
