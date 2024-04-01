@@ -1,4 +1,4 @@
-<h3 align="center"> 📊 stats Github: </h3>
+<h3 align="center"> 📊 Stats Github: </h3>
 
 <a href='https://github.com/rahul-jha98/github-stats-transparent' align="center">
 
@@ -15,7 +15,7 @@
 
 <h3 align="center"> 💵 Sponsorship: </h3>
 
-`Криптовалюта:`<br>
+`Cryptocurrency:`<br>
 `TON`:`UQBgS0x0NjH88kaNry6BdOlMtITQ5vPyUpU5Ou1myloNWBjl`<br>
 `BTC`:`1A9qNsfkZWoJ9y5MsW8EYs4FyYHUPM6KSM`<br>
 `USDT TRC20`:`TAwM95CYtPrgSAZDiANSD6ymh7KmExouxE`<br>
