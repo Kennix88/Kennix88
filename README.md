@@ -27,7 +27,7 @@
 
 `TON:`
 ```
-UQBgS0x0NjH88kaNry6BdOlMtITQ5vPyUpU5Ou1myloNWBjl
+UQCJuURKWehT0V4hzxSdtzhO3A_jwpISij0z8NTBiW3HBPb2
 ```
 `BTC:`
 ```
@@ -35,7 +35,7 @@ UQBgS0x0NjH88kaNry6BdOlMtITQ5vPyUpU5Ou1myloNWBjl
 ```
 `USDT (TON):`
 ```
-UQBgS0x0NjH88kaNry6BdOlMtITQ5vPyUpU5Ou1myloNWBjl
+UQCJuURKWehT0V4hzxSdtzhO3A_jwpISij0z8NTBiW3HBPb2
 ```
 `USDT (TRC20):`
 ```
