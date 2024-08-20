@@ -17,13 +17,7 @@
 
 </div>
 
-<h3 align="center"> 💵 Sponsorship: </h3>
-
-<h4 align="center">
-  
-  `Cryptocurrency`
-  
-</h4>
+<h3> 💵 Sponsorship: </h3>
 
 - TON or Jetton(NOT, DOGS, STON, GEM, JETTON etc) or TON NFT: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
 - USDT (TON): `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
