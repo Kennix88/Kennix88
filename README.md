@@ -25,23 +25,8 @@
   
 </h4>
 
-`TON:`
-```
-UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ
-```
-`BTC:`
-```
-1A9qNsfkZWoJ9y5MsW8EYs4FyYHUPM6KSM
-```
-`USDT (TON):`
-```
-UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ
-```
-`USDT (TRC20):`
-```
-TAwM95CYtPrgSAZDiANSD6ymh7KmExouxE
-```
-
-
-
-
+- TON or Jetton(NOT, DOGS, STON, GEM, JETTON etc) or TON NFT: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
+- USDT (TON): `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
+- USDT (TRC20): `TAwM95CYtPrgSAZDiANSD6ymh7KmExouxE`
+- BTC: `1A9qNsfkZWoJ9y5MsW8EYs4FyYHUPM6KSM`
+- Binance ID: `91467512`
