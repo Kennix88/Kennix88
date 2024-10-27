@@ -17,7 +17,7 @@
 
 </div>
 
-<h3> 💵 Sponsorship: </h3>
+### 💵 Sponsorship:
 
 - TON or Jetton(NOT, DOGS, X, HMSTR, STON, GEM, JETTON etc) or TON NFT: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
 - USDT (TON): `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
@@ -26,4 +26,4 @@
 - Binance ID: `91467512`
 - ByBit ID: `249886061`
 - KuCoin ID: `208825167`
-- Telegram Wallet: `@kennix88`
+- Telegram Wallet: [@kennix88](https://t.me/Kennix88)
