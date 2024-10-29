@@ -14,10 +14,9 @@ I develop all sorts of things
 [![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://img.shields.io/twitch/status/kennix88)
 
-[//]: # (### 📌 Top Repositories)
+### 📌 Top Repositories:
 
-[//]: # ()
-[//]: # ([![decl-of-num]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=decl-of-num&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&#41;]&#40;https://github.com/Kennix88/decl-of-num&#41;)
+[![decl-of-num](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=decl-of-num&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/decl-of-num)
 
 
 <h3 align="center"> 📊 My GitHub Stats: </h3>
