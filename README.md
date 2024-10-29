@@ -26,4 +26,5 @@
 - Binance ID: `91467512`
 - ByBit ID: `249886061`
 - KuCoin ID: `208825167`
+- OKX ID: `178528329853476864`
 - Telegram Wallet: [@kennix88](https://t.me/Kennix88)
