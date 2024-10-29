@@ -1,25 +1,53 @@
-<h3 align="center"> 📊 Stats Github: </h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Innokenty
+=================================================================================================================================
 
-<div align="center">
-  
-![Overview of statistics](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg)
-![Top Langs](https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg)
+Fullstack software developer
+----------------------------
 
-</div>
-<div align="center">
-  
-[![Статистика Anurag на GitHub](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+I develop all sorts of things
 
-</div>
+* 🌍  I'm based in Mars, The mines of Moria
+* ✉️  Write to me on  [Telegram](https://t.me/Kennix88)
+* 🚀  Read it on [Telegram Chanel](https://t.me/KennixDev)
+* 🧠  I'm learning Golang
+* 🤝  I'm open to collaborating on interesting JavaScript projects
+* ⚡  I want to make the software available
+
+[![Telegram](./assets/telegram.svg)](https://t.me/KennixDev)
+[![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
+[![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://img.shields.io/twitch/status/kennix88)
+
+[//]: # (### 📌 Top Repositories)
+
+[//]: # ()
+[//]: # ([![decl-of-num]&#40;https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=decl-of-num&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&#41;]&#40;https://github.com/Kennix88/decl-of-num&#41;)
+
+
+<h3 align="center"> 📊 My GitHub Stats: </h3>
+
+[//]: # (<div align="center">)
+
+[//]: # (  )
+[//]: # (![Overview of statistics]&#40;https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg&#41;)
+
+[//]: # (![Top Langs]&#40;https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg&#41;)
+
+[//]: # ()
+[//]: # (</div>)
 <div align="center">
-  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kennix88&show_icons=true&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kennix88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kennix88&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kennix88&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kennix88&show_icons=true&layout=compact&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 </div>
 
 ### 💵 Sponsorship:
+If you want to support me, I will be very happy about it. 🥺👉👈
 
-- TON or Jetton(NOT, DOGS, X, HMSTR, STON, GEM, JETTON etc) or TON NFT: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
+- TON or Jettons(NOT, DOGS, X, HMSTR, STON, GEM, JETTON etc) or TON NFT or TG-Names: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
 - USDT (TON): `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
 - USDT (TRC20): `TPYpSQoK7CBvdNBsQRjsNdxFB54Uon8687`
 - BTC: `1Ai9bL7862KQrcHymkakgaEAsDL5M3uNyX`
