@@ -16,7 +16,7 @@ I develop all sorts of things
 
 ### 📌 Top Repositories:
 
-[![decl-of-num](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=decl-of-num&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/decl-of-num)
+[![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
 
 
 <h3 align="center"> 📊 My GitHub Stats: </h3>
