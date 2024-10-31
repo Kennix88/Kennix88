@@ -10,9 +10,10 @@ I develop all sorts of things
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I want to make the software available
 
-[![Telegram](./assets/telegram.svg)](https://t.me/KennixDev)
+[![Telegram Channel](./assets/telegram.svg)](https://t.me/KennixDev)
 [![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://img.shields.io/twitch/status/kennix88)
+[![Telegram Channel](https://img.shields.io/endpoint?style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fkennixdev&label=Channel)](https://t.me/KennixDev)
 
 ### 📌 Top Repositories:
 
