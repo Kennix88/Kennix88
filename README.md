@@ -1,3 +1,7 @@
+[![X share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=x&logoColor=FFFFFF&label=X-twitter)](https://x.com/intent/tweet?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88&hashtags=github,developer,opensource,scraping,free,code)
+[![Telegram share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=telegram&logoColor=26A5E4&label=Telegram)](https://t.me/share/url?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88)
+[![Whatsapp share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=25D366&label=Whatsapp)](whatsapp://send?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
+[![Viber share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=7360F2&label=Viber)](viber://forward?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> My name is Innokenty
 ## Fullstack software developer
 
@@ -19,11 +23,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 [![Telegram Group](https://img.shields.io/endpoint?label=Group&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FKennixDevGroup)](https://t.me/KennixDevGroup)
 [![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/kennix88)
 [![Youtube](https://img.shields.io/youtube/channel/views/UC5h06O3iKZZTI1puc0T2fLA?label=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@KennixDev)
-
-[![X share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=x&logoColor=FFFFFF&label=X-twitter)](https://x.com/intent/tweet?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88&hashtags=github,developer,opensource,scraping,free,code)
-[![Telegram share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=telegram&logoColor=26A5E4&label=Telegram)](https://t.me/share/url?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88)
-[![Whatsapp share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=25D366&label=Whatsapp)](whatsapp://send?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
-[![Viber share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=7360F2&label=Viber)](viber://forward?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
 
 </div>
 
