@@ -10,31 +10,24 @@ I develop all sorts of things
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I want to make the software available
 
+<div align="center">
+
 [![Telegram Channel](./assets/telegram.svg)](https://t.me/KennixDev)
 [![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![Telegram Channel](https://img.shields.io/endpoint?style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fkennixdev&label=Channel)](https://t.me/KennixDev)
 [![Telegram Group](https://img.shields.io/endpoint?label=Group&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FKennixDevGroup)](https://t.me/KennixDevGroup)
-[![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://www.twitch.tv/kennix88)
-[![Youtube](https://img.shields.io/youtube/channel/views/UC5h06O3iKZZTI1puc0T2fLA?label=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=youtube)](https://www.youtube.com/@KennixDev)
+[![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/kennix88)
+[![Youtube](https://img.shields.io/youtube/channel/views/UC5h06O3iKZZTI1puc0T2fLA?label=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@KennixDev)
+
+</div>
 
 ### 📌 Top Repositories:
 
 [![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
 
-
-<h3 align="center"> 📊 My GitHub Stats: </h3>
-
-[//]: # (<div align="center">)
-
-[//]: # (  )
-[//]: # (![Overview of statistics]&#40;https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/overview.svg&#41;)
-
-[//]: # (![Top Langs]&#40;https://raw.githubusercontent.com/Kennix88/github-stats-transparent/output/generated/languages.svg&#41;)
-
-[//]: # ()
-[//]: # (</div>)
 <div align="center">
 
+### 📊 My GitHub Stats:
 ![Kennix88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kennix88&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
