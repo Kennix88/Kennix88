@@ -1,11 +1,12 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> My name is Innokenty
 ## Fullstack software developer
 
-I develop all sorts of things
+I develop various software. Telegram bots, Telegram mini-apps, VPN services, scraping projects, web apps and other projects.
 
 * 🌍  I'm based in Mars, The mines of Moria
 * ✉️  Write to me on  [Telegram](https://t.me/Kennix88)
 * 🚀  Read it on [Telegram Chanel](https://t.me/KennixDev)
+* 💻  I'm working on porting my projects to open source
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on interesting JavaScript projects
 * ⚡  I want to make the software available
@@ -19,11 +20,17 @@ I develop all sorts of things
 [![TWITCH STATUS](https://img.shields.io/twitch/status/kennix88?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/kennix88)
 [![Youtube](https://img.shields.io/youtube/channel/views/UC5h06O3iKZZTI1puc0T2fLA?label=Youtube&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@KennixDev)
 
+[![X share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=x&logoColor=FFFFFF&label=X-twitter)](https://x.com/intent/tweet?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88&hashtags=github,developer,opensource,scraping,free,code)
+[![Telegram share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=telegram&logoColor=26A5E4&label=Telegram)](https://t.me/share/url?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88)
+[![Whatsapp share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=25D366&label=Whatsapp)](whatsapp://send?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
+[![Viber share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=7360F2&label=Viber)](viber://forward?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
+
 </div>
 
 ### 📌 Top Repositories:
 
 [![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
+
 
 <div align="center">
 
