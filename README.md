@@ -21,7 +21,7 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 ### 💻 My workspace
 
 ![OS](https://img.shields.io/badge/windows-%230078d4.svg?&style=for-the-badge&logo=windows&logoColor=white&labelColor=1c1917&label=OS)
-![CPU](https://img.shields.io/badge/AMD-core%20i5%2010th-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917)
+![CPU](https://img.shields.io/badge/AMD-Ryzen%209%203900x-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white&labelColor=1c1917)
 ![RAM](https://img.shields.io/badge/RAM-64GB-%23ECD53F.svg?&style=for-the-badge&logoColor=white&labelColor=1c1917)
 ![VIDEO СARD](https://img.shields.io/badge/nvidia-gtx%201050ti-%2376B900?&style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917)
 
