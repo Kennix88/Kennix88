@@ -33,8 +33,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 <summary>📌 Repositories</summary>
 <div align="center">
 
-### 📌 Repositories:
-
 [![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
 
 </div>
@@ -44,7 +42,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 <summary>📊 My GitHub Stats</summary>
 <div align="center">
 
-### 📊 My GitHub Stats:
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kennix88&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kennix88&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
@@ -57,7 +54,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 <details>
 <summary>💵 Sponsorship</summary>
 
-### 💵 Sponsorship:
 If you want to support me, I will be very happy about it. 🥺👉👈
 
 - TON or Jettons(NOT, DOGS, X, HMSTR, STON, GEM, JETTON etc) or TON NFT or TG-Names: `UQAjDnbTYmkesnuG0DZv-PeMo3lY-B-K6mfArUBEEdAb4xaJ`
