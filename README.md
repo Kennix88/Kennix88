@@ -39,6 +39,26 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 </details>
 
 <details>
+<summary>📝 Roadmap my open-source projects</summary>
+
+- [ ] **[In Progress] [SpaceAdventure-FarmAbuzer-lite](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)** - *The bot automatically plays the game "[Space Adventure](https://t.me/spaceadv_game_bot/play?startapp=645259468)" (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
+- [ ] **TonAlytics-FarmAbuzer-lite** - *The bot will automatically spin the roulette wheel in the "[TonAlytics](https://t.me/tonalytics_bot/app?startapp=wexahe09)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
+- [ ] **GoblinMineGame-FarmAbuzer-lite** - *The bot automatically plays the game "[Goblin Mine Game](https://t.me/GoblinMine_bot/start?startapp=645259468)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
+- [ ] **SpaceAdventure-FarmAbuzer-advanced** - *The bot automatically plays the game "[Space Adventure](https://t.me/spaceadv_game_bot/play?startapp=645259468)" (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
+- [ ] **TonAlytics-FarmAbuzer-advanced** - *The bot will automatically spin the roulette wheel in the "[TonAlytics](https://t.me/tonalytics_bot/app?startapp=wexahe09)" app (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
+- [ ] **GoblinMineGame-FarmAbuzer-advanced** - *The bot automatically plays the game "[Goblin Mine Game](https://t.me/GoblinMine_bot/start?startapp=645259468)" app (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
+- [ ] **FarmAbuzer** - *A professional bot for automatic control of "Telegram mimi app" games/applications. For personal and commercial use.*
+- [ ] **marzban-subscription-page** - *The subscription page for the Marzban panel. It assumes placement on separate servers.*
+- [ ] **marzban-commerse-bot** - *Commercial Telegram bot for the Marzban control panel. The solution includes a bot to purchase a VPN subscription for telegram stars and a WebApp application for interaction.*
+- [ ] **xray-vpn-service** - *A professional VPN service based on the xray core. It includes: Control Panel, Telegram bot, Telegram Mini App, WebApp, Connection Node, Masking resource (website), payment modules and much more.*
+- [ ] **lords-mobile-bot** - *A bot playing a game in lords mobile*
+- [ ] **kennixdev** - *My Portfolio website. Includes information about my developments and information about me.*
+
+This is an indicative Roadmap. Plans may change, something may lose relevance and make no sense in development. You can suggest which interesting open-source projects can still be developed, choose what should be developed as a priority, or even order an open-source project from me for cheap (On my property rights).
+
+</details>
+
+<details>
 <summary>📊 My GitHub Stats</summary>
 <div align="center">
 
