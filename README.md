@@ -44,17 +44,17 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 - [ ] **[In Progress] [SpaceAdventure-FarmAbuzer-lite](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)** - *The bot automatically plays the game "[Space Adventure](https://t.me/spaceadv_game_bot/play?startapp=645259468)" (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
 - [ ] **TonAlytics-FarmAbuzer-lite** - *The bot will automatically spin the roulette wheel in the "[TonAlytics](https://t.me/tonalytics_bot/app?startapp=wexahe09)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
 - [ ] **GoblinMineGame-FarmAbuzer-lite** - *The bot automatically plays the game "[Goblin Mine Game](https://t.me/GoblinMine_bot/start?startapp=645259468)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
-- [ ] **SpaceAdventure-FarmAbuzer-advanced** - *The bot automatically plays the game "[Space Adventure](https://t.me/spaceadv_game_bot/play?startapp=645259468)" (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
-- [ ] **TonAlytics-FarmAbuzer-advanced** - *The bot will automatically spin the roulette wheel in the "[TonAlytics](https://t.me/tonalytics_bot/app?startapp=wexahe09)" app (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
-- [ ] **GoblinMineGame-FarmAbuzer-advanced** - *The bot automatically plays the game "[Goblin Mine Game](https://t.me/GoblinMine_bot/start?startapp=645259468)" app (Telegram mini app). Advanced version. For personal use only. Not suitable for commercial use!*
-- [ ] **FarmAbuzer** - *A professional bot for automatic control of "Telegram mimi app" games/applications. For personal and commercial use.*
+- [ ] **FarmAbuzer** - *A professional bot that automatically manages Telegram mini app games/applications. It includes a telegram bot and Telegram WebApp. For personal and commercial use.*
 - [ ] **marzban-subscription-page** - *The subscription page for the Marzban panel. It assumes placement on separate servers.*
-- [ ] **marzban-commerse-bot** - *Commercial Telegram bot for the Marzban control panel. The solution includes a bot to purchase a VPN subscription for telegram stars and a WebApp application for interaction.*
-- [ ] **xray-vpn-service** - *A professional VPN service based on the xray core. It includes: Control Panel, Telegram bot, Telegram Mini App, WebApp, Connection Node, Masking resource (website), payment modules and much more.*
+- [ ] **fake-webapp** - *A fake application hosted on your servers to mask traffic.*
+- [ ] **marzban-commerse-bot** - *A commercial telegram bot for the VPN (Xray) of the Marzban panel. Includes: selling subscriptions to users for telegram stars, a web application for interaction.*
+- [ ] **wormhole** - *A professional solution for deploying a commercial VPN service based on the Xray core. It includes: Control Panel, Telegram Mini App Telegram bot, WebApp, Communication Node, Payment Modules and much more.*
 - [ ] **lords-mobile-bot** - *A bot playing a game in lords mobile*
-- [ ] **kennixdev** - *My Portfolio website. Includes information about my developments and information about me.*
+- [ ] **kennixdev** - *My website is a portfolio. A resource that will host all my work and brief information about me.*
 
 This is an indicative Roadmap. Plans may change, something may lose relevance and make no sense in development. You can suggest which interesting open-source projects can still be developed, choose what should be developed as a priority, or even order an open-source project from me for cheap (On my property rights).
+
+**Also in wet dreams😅:** to develop a commercial online cinema with monetization for the authors of the content and the voice acting itself.
 
 </details>
 
@@ -83,6 +83,8 @@ If you want to support me, I will be very happy about it. 🥺👉👈
 - Binance ID: `91467512`
 - ByBit ID: `249886061`
 - KuCoin ID: `208825167`
+- GateIO ID: `18943532`
+- BingX ID: `27667379`
 - OKX ID: `178528329853476864`
 - Telegram Wallet: [@kennix88](https://t.me/Kennix88)
 
