@@ -33,29 +33,11 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 <summary>📌 Repositories</summary>
 <div align="center">
 
+[![HashRateGame](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=HashRateGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/HashRateGame)
+[![Token-Giver](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=Token-Giver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/Token-Giver)
 [![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
 
 </div>
-</details>
-
-<details>
-<summary>📝 Roadmap my open-source projects</summary>
-
-- [ ] **[In Progress] [SpaceAdventure-FarmAbuzer-lite](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)** - *The bot automatically plays the game "[Space Adventure](https://t.me/spaceadv_game_bot/play?startapp=645259468)" (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
-- [ ] **TonAlytics-FarmAbuzer-lite** - *The bot will automatically spin the roulette wheel in the "[TonAlytics](https://t.me/tonalytics_bot/app?startapp=wexahe09)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
-- [ ] **GoblinMineGame-FarmAbuzer-lite** - *The bot automatically plays the game "[Goblin Mine Game](https://t.me/GoblinMine_bot/start?startapp=645259468)" app (Telegram mini app). The lite version. For personal use only. Not suitable for commercial use!*
-- [ ] **FarmAbuzer** - *A professional bot that automatically manages Telegram mini app games/applications. It includes a telegram bot and Telegram WebApp. For personal and commercial use.*
-- [ ] **marzban-subscription-page** - *The subscription page for the Marzban panel. It assumes placement on separate servers.*
-- [ ] **fake-webapp** - *A fake application hosted on your servers to mask traffic.*
-- [ ] **marzban-commerse-bot** - *A commercial telegram bot for the VPN (Xray) of the Marzban panel. Includes: selling subscriptions to users for telegram stars, a web application for interaction.*
-- [ ] **wormhole** - *A professional solution for deploying a commercial VPN service based on the Xray core. It includes: Control Panel, Telegram Mini App Telegram bot, WebApp, Communication Node, Payment Modules and much more.*
-- [ ] **lords-mobile-bot** - *A bot playing a game in lords mobile*
-- [ ] **kennixdev** - *My website is a portfolio. A resource that will host all my work and brief information about me.*
-
-This is an indicative Roadmap. Plans may change, something may lose relevance and make no sense in development. You can suggest which interesting open-source projects can still be developed, choose what should be developed as a priority, or even order an open-source project from me for cheap (On my property rights).
-
-**Also in wet dreams😅:** to develop a commercial online cinema with monetization for the authors of the content and the voice acting itself.
-
 </details>
 
 <details>
