@@ -10,6 +10,7 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 
 [![Kennix88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&width=200)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Kennix88&style=for-the-badge&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/9268c051-c861-45cc-b927-3babf56c56d9.svg?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![My Telegram](https://img.shields.io/badge/Send-2CA5E0?style=for-the-badge&color=0891b2&labelColor=1c1917&label=My%20Telegram&logo=telegram&logoColor=26A5E4)](https://t.me/Kennix88)
@@ -71,3 +72,4 @@ If you want to support me, I will be very happy about it. 🥺👉👈
 - Telegram Wallet: [@kennix88](https://t.me/Kennix88)
 
 </details>
+
