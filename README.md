@@ -8,7 +8,7 @@
 
 I develop various software. Telegram bots, Telegram mini-apps, VPN services, scraping projects, web apps and other projects.
 
-[![Kennix88's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennix88&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Kennix88's GitHub stats](https://github-readme-stats-kennix.vercel.app/api?username=Kennix88&show_icons=true&rank_icon=default&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&width=200&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Kennix88&style=for-the-badge&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/9268c051-c861-45cc-b927-3babf56c56d9.svg?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
@@ -34,7 +34,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 
 [![HashRateGame](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=HashRateGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/HashRateGame)
 [![Token-Giver](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=Token-Giver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/Token-Giver)
-[![SpaceAdventure-FarmAbuzer-lite](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=SpaceAdventure-FarmAbuzer-lite&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/SpaceAdventure-FarmAbuzer-lite)
 
 </div>
 </details>
@@ -44,10 +43,10 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 <div align="center">
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kennix88&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kennix88&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 ![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kennix88&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kennix88&show_icons=true&layout=compact&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Kennix88&show_icons=true&layout=compact&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 </div>
 </details>
