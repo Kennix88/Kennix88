@@ -28,15 +28,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 
 
 ---
-<details>
-<summary>📌 Repositories</summary>
-<div align="center">
-
-[![HashRateGame](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=HashRateGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/HashRateGame)
-[![Token-Giver](https://github-readme-stats.vercel.app/api/pin/?username=Kennix88&repo=Token-Giver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/Kennix88/Token-Giver)
-
-</div>
-</details>
 
 <details>
 <summary>📊 My GitHub Stats</summary>
