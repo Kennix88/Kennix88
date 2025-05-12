@@ -1,7 +1,5 @@
-[![X share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=x&logoColor=FFFFFF&label=X-twitter)](https://x.com/intent/tweet?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88&hashtags=github,developer,opensource,scraping,free,code)
-<a href="https://t.me/share/url?text=Cool%20Open%20Source%20projects%20are%20here&url=https://www.github.com/Kennix88" target="_blank" title="Share on Telegram"><img src="https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=telegram&logoColor=26A5E4&label=Telegram"></a>
-[![Whatsapp share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=25D366&label=Whatsapp)](whatsapp://send?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
-[![Viber share](https://img.shields.io/badge/share-blue?style=for-the-badge&color=0891b2&labelColor=1c1917&logo=whatsapp&logoColor=7360F2&label=Viber)](viber://forward?text=Cool%20Open%20Source%20projects%20are%20here%20%20https://www.github.com/Kennix88)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kennix88&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <div align="center">
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> My name is Innokenty 👨‍💻
@@ -26,7 +24,6 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 ![VIDEO СARD](https://img.shields.io/badge/nvidia-gtx%201050ti-%2376B900?&style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1c1917)
 
 </div>
-
 
 ---
 
@@ -58,4 +55,3 @@ If you want to support me, I will be very happy about it. 🥺👉👈
 - Telegram Wallet: [@kennix88](https://t.me/Kennix88)
 
 </details>
-
