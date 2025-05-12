@@ -1,6 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kennix88&theme=gruvbox&no-bg=true&no-frame=true&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kennix88&theme=gruvbox&no-bg=true&no-frame=true&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> My name is Innokenty 👨‍💻
 
