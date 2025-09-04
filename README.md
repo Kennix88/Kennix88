@@ -9,7 +9,7 @@ I develop various software. Telegram bots, Telegram mini-apps, VPN services, scr
 [![Kennix88's GitHub stats](https://github-readme-stats-kennix.vercel.app/api?username=Kennix88&show_icons=true&rank_icon=default&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&width=200&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats-kennix.vercel.app/api/top-langs/?username=Kennix88&layout=compact&langs_count=20&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Top%20%Languages)
 
-[![Telegram Open Dev Community](https://img.shields.io/endpoint?label=open%20dev%20community&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fodevcmty)](https://t.me/odevcmty)
+[![Telegram Solyanka Community](https://img.shields.io/endpoint?label=Solyanka%20community&style=for-the-badge&color=0891b2&labelColor=1c1917&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fsolycmty)](https://t.me/solycmty)
 ![](https://komarev.com/ghpvc/?username=Kennix88&style=for-the-badge&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/9268c051-c861-45cc-b927-3babf56c56d9.svg?style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
 [![Github followers](https://img.shields.io/github/followers/Kennix88?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://www.github.com/Kennix88)
